@@ -12,4 +12,5 @@ As an <strong>extra</strong>, I decided to make the website <strong>responsive</
 View it: <a href="https://benthemannl.github.io/Project-StyleGuide/">HERE</a>
 
 PREVIEW:
-<img width="2530" height="1307" alt="image" src="https://github.com/user-attachments/assets/6cca10b5-cd3c-45eb-96bf-bc26595e136e">
+<img width="2539" height="1300" alt="image" src="https://github.com/user-attachments/assets/a714ac49-1f7e-4237-a704-11ea415db6d7">
+
